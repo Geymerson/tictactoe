@@ -22,7 +22,7 @@ ApplicationWindow {
     height: 520
     title: qsTr("Tic-Tac-Toe")
     maximumHeight: 520
-    maximumWidth: 330
+    maximumWidth: 330   
 
     GameScreen {
         id: mainScreen

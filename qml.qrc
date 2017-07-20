@@ -21,5 +21,7 @@
         <file>qml/InfoBox.qml</file>
         <file>images/draw.png</file>
         <file>qml/MGrid.qml</file>
+        <file>images/newgame.png</file>
+        <file>qml/MButton.qml</file>
     </qresource>
 </RCC>

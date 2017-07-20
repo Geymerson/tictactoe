@@ -88,14 +88,16 @@ Item {
         anchors.horizontalCenter: parent.horizontalCenter
     }
 
-    Button {
+    MButton {
         id: newGameButton
-        text: "New game"
+        width: 150
+        height: 35
+        rotation: -13
         anchors.bottom: parent.bottom
         anchors.right: parent.right
-        anchors.bottomMargin: parent.height * 0.02
+        anchors.bottomMargin: parent.height * 0.035
         anchors.rightMargin: parent.height * 0.02
-        onClicked: {
+        onPressed: {
             grid.newGame();
         }
     }
