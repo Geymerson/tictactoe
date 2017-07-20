@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>images/circle-sketchb.png</file>
+        <file>images/cross-sketchb.png</file>
+        <file>images/bgImage.jpg</file>
+        <file>images/def.png</file>
+        <file>images/vic.png</file>
+        <file>qml/GameScreen.qml</file>
+        <file>images/titleimg1.png</file>
+        <file>images/titleimg2.png</file>
+        <file>images/ornament2a.png</file>
+        <file>images/ornament2b.png</file>
+        <file>images/ornament2c.png</file>
+        <file>images/ornament1.png</file>
+        <file>images/grid.png</file>
+        <file>qml/GridCell.qml</file>
+        <file>images/circle.png</file>
+        <file>images/cross.png</file>
+        <file>qml/InfoBox.qml</file>
+        <file>images/draw.png</file>
+        <file>qml/MGrid.qml</file>
+    </qresource>
+</RCC>
